@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cog-daraga.com/static/css/main.a6de87ec.css",
+    "main.js": "/cog-daraga.com/static/js/main.3970fa5c.js",
+    "static/media/cog-logo.png": "/cog-daraga.com/static/media/cog-logo.100ec1d05552cd6e2c1c.png",
+    "static/media/header-bg.png": "/cog-daraga.com/static/media/header-bg.f500349eb9eed650985c.png",
+    "index.html": "/cog-daraga.com/index.html",
+    "main.a6de87ec.css.map": "/cog-daraga.com/static/css/main.a6de87ec.css.map",
+    "main.3970fa5c.js.map": "/cog-daraga.com/static/js/main.3970fa5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6de87ec.css",
+    "static/js/main.3970fa5c.js"
+  ]
+}
