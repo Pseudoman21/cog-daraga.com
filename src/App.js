@@ -4,6 +4,8 @@ import Navbar from './components/Navbar'
 import { Col, Container, Row } from 'react-bootstrap'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import Schedules from './components/Schedules'
+import About from './components/About'
 function App () {
   useEffect(() => {
     AOS.init()
@@ -30,6 +32,8 @@ function App () {
           </Row>
         </Container>
       </header>
+      <Schedules />
+      <About />
     </div>
   )
 }
